@@ -27,4 +27,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.22" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\12Demo_DbFirst\12Demo_DbFirst.csproj" />
+  </ItemGroup>
+
 </Project>

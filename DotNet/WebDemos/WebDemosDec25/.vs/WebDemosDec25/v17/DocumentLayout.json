@@ -3,36 +3,284 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_emppartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_emppartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\help.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\help.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\11demo_ef_filters_sessions_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\11demo_ef_filters_sessions_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\12demo_dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\12demo_dbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\12demo_dbfirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\12demo_dbfirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\12demo_dbfirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9B20685-E119-4F46-BC7F-B8E75DA056F8}|12Demo_DbFirst\\12Demo_DbFirst.csproj|solutionrelative:12demo_dbfirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\filters\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\filters\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\filters\\ietexexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\filters\\ietexexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\filters\\ietfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\filters\\ietfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\11demo_ef_filters_sessions_webapi\\controllers\\exceptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058E26B7-C322-473E-B9C8-3EFA2E7E1F07}|11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj|solutionrelative:11demo_ef_filters_sessions_webapi\\controllers\\exceptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\demo\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\demo\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_emppartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_emppartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\08demo_bootstrap_layout_partialview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\08demo_bootstrap_layout_partialview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\models\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\10demo_connected\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC8A639-6022-4FB9-922E-6D9E92486B40}|10Demo_Connected\\10Demo_Connected.csproj|solutionrelative:10demo_connected\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\09demo_taghelpers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F8DDB9A-2859-4A8D-879D-E9400E2133D1}|09Demo_TagHelpers\\09Demo_TagHelpers.csproj|solutionrelative:09demo_taghelpers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\wwwroot\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -79,24 +327,12 @@
       "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\demo\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\demo\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\views\\home\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|c:\\users\\iet\\desktop\\new folder (3)\\iet_dec_2025_batch\\webdemos\\webdemosdec25\\08demo_bootstrap_layout_partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87EA5D76-E3DB-4CA6-AF5D-8C1E65249BE7}|08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj|solutionrelative:08demo_bootstrap_layout_partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,255 +350,447 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_EmpPartialView.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T11:17:56.084Z",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Models\\Emp.cs",
+              "RelativeToolTip": "12Demo_DbFirst\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:49:27.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T11:20:59.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:27:54.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:14:18.044Z",
+              "Title": "IetdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Models\\IetdbContext.cs",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Models\\IetdbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Models\\IetdbContext.cs",
+              "RelativeToolTip": "12Demo_DbFirst\\Models\\IetdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:50:38.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Program.cs",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Program.cs",
+              "RelativeToolTip": "12Demo_DbFirst\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:59:36.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "12Demo_DbFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:48:29.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:59:10.101Z",
+              "WhenOpened": "2026-01-03T05:06:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\appsettings.json",
+              "RelativeToolTip": "12Demo_DbFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T05:04:44.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:12:50.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:27:56.011Z",
+              "Title": "Help.txt",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Help.txt",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Help.txt",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Help.txt",
+              "RelativeToolTip": "12Demo_DbFirst\\Help.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-03T04:59:30.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Emp.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T11:05:25.091Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T13:31:45.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\EmpsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-01T10:57:11.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bootstrap.rtl.css",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-01T10:57:11.432Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T05:36:22.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "bootstrap.rtl.min.css",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+              "Title": "12Demo_DbFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "RelativeToolTip": "12Demo_DbFirst\\12Demo_DbFirst.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-01T10:57:11.104Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T05:32:59.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "11Demo_EF_Filters_Sessions_WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\11Demo_EF_Filters_Sessions_WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T05:36:15.77Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "bootstrap.rtl.min.css.map",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-01T10:57:10.745Z"
+              "Title": "12Demo_DbFirst",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "RelativeToolTip": "12Demo_DbFirst\\12Demo_DbFirst.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T05:21:37.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "bootstrap.rtl.css.map",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "12Demo_DbFirst\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-01T10:57:10.37Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:54:12.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-01T10:57:10.089Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T05:13:36.642Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "bootstrap.min.css.map",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-01T10:57:09.745Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T05:06:03.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "bootstrap.css.map",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-01T10:57:09.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:27:40.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:27:33.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PData.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:27:29.395Z"
+              "WhenOpened": "2026-01-03T05:06:23.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ProductData.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T10:27:27.676Z"
+              "WhenOpened": "2026-01-03T05:06:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T05:05:20.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "12Demo_DbFirst\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T05:05:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "12Demo_DbFirst\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\12Demo_DbFirst\\Properties\\launchSettings.json",
+              "RelativeToolTip": "12Demo_DbFirst\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T05:12:53.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T14:20:27.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T14:20:21.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T14:20:17.206Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T13:23:52.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:06:07.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\IETDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:00:02.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Program.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:21:22.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IETExExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETExExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:08:19.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IETFilter.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Filters\\IETFilter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:10:57.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:18:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T12:51:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:18:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T12:58:00.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Logger\\FileLogger.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T12:50:00.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExceptionController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "RelativeDocumentMoniker": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "RelativeToolTip": "11Demo_EF_Filters_Sessions_WebAPI\\Controllers\\ExceptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:23:14.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T12:41:10.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "GetProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Demo\\GetProducts.cshtml",
               "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Demo\\GetProducts.cshtml",
@@ -374,7 +802,534 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:12:50.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ProductPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_ProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T12:35:19.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\appsettings.json",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\appsettings.json",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T12:32:38.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_EmpPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_EmpPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T11:17:56.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:27:40.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:27:56.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:59:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Program.cs",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Program.cs",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:10:55.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T11:20:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:27:54.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:05:25.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Properties\\launchSettings.json",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T12:08:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "08Demo_Bootstrap_Layout_PartialView",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\08Demo_Bootstrap_Layout_PartialView.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T12:08:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "10Demo_Connected\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:59:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\appsettings.json",
+              "RelativeDocumentMoniker": "10Demo_Connected\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\appsettings.json",
+              "RelativeToolTip": "10Demo_Connected\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T11:48:26.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "10Demo_Connected\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:53:00.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "10Demo_Connected\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:58:30.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "10Demo_Connected\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:58:25.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "10Demo_Connected\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:58:16.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "10Demo_Connected\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:57:34.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "10Demo_Connected\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:53:16.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Models\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Models\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Models\\IETDbContext.cs",
+              "RelativeToolTip": "10Demo_Connected\\Models\\IETDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:46:43.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Program.cs",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Program.cs",
+              "RelativeToolTip": "10Demo_Connected\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:49:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "10Demo_Connected\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:45:50.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "10Demo_Connected\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\10Demo_Connected\\Models\\Emp.cs",
+              "RelativeToolTip": "10Demo_Connected\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:46:29.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "09Demo_TagHelpers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:43:23.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Program.cs",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Program.cs",
+              "RelativeToolTip": "09Demo_TagHelpers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:40:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\appsettings.json",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\appsettings.json",
+              "RelativeToolTip": "09Demo_TagHelpers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T11:40:38.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "09Demo_TagHelpers\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:40:36.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "09Demo_TagHelpers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:36:57.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "09Demo_TagHelpers\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:40:19.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "09Demo_TagHelpers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\09Demo_TagHelpers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "09Demo_TagHelpers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:39:18.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:14:18.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-01T10:57:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-01T10:57:11.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "bootstrap.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-01T10:57:11.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-01T10:57:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "bootstrap.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-01T10:57:10.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-01T10:57:10.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-01T10:57:09.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-01T10:57:09.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:27:33.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PData.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\PData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:27:29.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ProductData.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
+              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
+              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\ProductData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T10:27:27.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Demo\\Index.cshtml",
               "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Demo\\Index.cshtml",
@@ -386,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 82,
               "Title": "Courses.cshtml",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Courses.cshtml",
               "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Views\\Home\\Courses.cshtml",
@@ -395,18 +1350,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-01T10:27:32.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Program.cs",
-              "RelativeDocumentMoniker": "08Demo_Bootstrap_Layout_PartialView\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\New folder (3)\\IET_Dec_2025_Batch\\WebDemos\\WebDemosDec25\\08Demo_Bootstrap_Layout_PartialView\\Program.cs",
-              "RelativeToolTip": "08Demo_Bootstrap_Layout_PartialView\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T10:10:55.243Z"
             }
           ]
         }

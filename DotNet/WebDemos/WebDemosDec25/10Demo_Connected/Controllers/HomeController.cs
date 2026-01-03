@@ -2,7 +2,7 @@ using System.Diagnostics;
 using _10Demo_Connected.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace _10Demo_Connected.Controllers
+namespace _Connected.Controllers
 {
     // Buissness Logic Layer
     public class HomeController : Controller
